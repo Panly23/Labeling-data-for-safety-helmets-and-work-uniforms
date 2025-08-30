@@ -51,9 +51,11 @@ Note: Augmentation preserved original annotation coordinates by transforming bou
 
 Three example images and their corresponding label files are included under `dataset/images/` and `dataset/labels/`:
 
-![Example 1](dataset/train/images/000000_jpg.rf.ff634dadb58389cde19296d11ab68a4d.jpg)
-![Example 2](dataset/train/images/000002_jpg.rf.fc1bf83b31577e5ec1f14a796ca3bd13.jpg)
-![Example 3](dataset/train/images/000006_jpg.rf.46385a5d07e5b5342506eed2f9b32d44.jpg)
+<p align="center">
+  <img src="dataset/train/images/000000_jpg.rf.ff634dadb58389cde19296d11ab68a4d.jpg" alt="Example 1" width="250"/>
+  <img src="dataset/train/images/000002_jpg.rf.fc1bf83b31577e5ec1f14a796ca3bd13.jpg" alt="Example 2" width="250"/>
+  <img src="dataset/train/images/000006_jpg.rf.46385a5d07e5b5342506eed2f9b32d44.jpg" alt="Example 3" width="250"/>
+</p>
 
 ## Usage notes
 
