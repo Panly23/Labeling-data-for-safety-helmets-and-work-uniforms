@@ -6,7 +6,6 @@ This dataset contains annotated images of safety helmets and workwear (including
 
 Huge thanks to the original dataset provider: [https://github.com/lijfrank-open/SFCHD-SCALE](https://github.com/lijfrank-open/SFCHD-SCALE) — this repository served as an important resource and inspiration for our data collection and preprocessing.
 
----
 
 ## Dataset overview
 
