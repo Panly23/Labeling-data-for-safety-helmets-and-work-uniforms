@@ -51,12 +51,9 @@ Note: Augmentation preserved original annotation coordinates by transforming bou
 
 Three example images and their corresponding label files are included under `dataset/images/` and `dataset/labels/`:
 
-* `dataset/images/example_01.jpg` + `dataset/labels/example_01.txt`
-* `dataset/images/example_02.jpg` + `dataset/labels/example_02.txt`
-* `dataset/images/example_03.jpg` + `dataset/labels/example_03.txt`
-
-You can replace these placeholder filenames with any three representative images from the dataset; keeping examples in the repository helps others quickly inspect annotation quality.
-
+![Example 1](dataset/train/images/000000_jpg.rf.ff634dadb58389cde19296d11ab68a4d.jpg)
+![Example 2](dataset/train/images/000002_jpg.rf.fc1bf83b31577e5ec1f14a796ca3bd13.jpg)
+![Example 3](dataset/train/images/000006_jpg.rf.46385a5d07e5b5342506eed2f9b32d44.jpg)
 
 ## Usage notes
 
